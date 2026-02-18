@@ -1,5 +1,7 @@
 # DHCP i ett lokalt LAN – Konfiguration och verifiering
 
+PS: Om du föredrar video framför text (eller stöter på problem) så finns en videolänk [här](https://youtu.be/jZOJLrPnu6E)
+
 ---
 
 # Syfte
